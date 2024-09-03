@@ -1,0 +1,59 @@
+
+
+@media  (max-width: 768px) {
+    #cep {
+        display: block;
+        width: 100%;
+    }
+    
+    #endereco {
+        display: block;
+        width: 100%;
+    }
+    #number {
+        display: block;
+        width: 100%
+    }
+    #number {
+        display: block;
+        width: 100%
+    }
+    #complemento {
+        display: block;
+        width: 100%
+    }
+    #bairro {
+        display: block;
+        width: 100%
+    }
+    #cidade {
+        display: block;
+        width: 100%
+    }
+    .form-group {
+        margin-top: 0;
+    }
+    #estado {
+        width: 50%;
+    }
+    #pais {
+        width: 50%;
+    }
+    .btn {
+        margin-top: 10px;
+    }
+    
+}
+
+
+
+.form-group {
+    margin-top: 20px;
+    
+}
+#pri {
+    margin-bottom: 20px;
+}
+.btn {
+    margin-top: 30px;
+}
